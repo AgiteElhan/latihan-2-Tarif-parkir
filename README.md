@@ -152,8 +152,3 @@ Dengan demikian, jam pertama memiliki tarif berbeda dengan jam berikutnya sesuai
 ![Hasil Program](screenshoot/tarif-parkir.png)
 
 
-## Kesimpulan
-
-Program berhasil menghitung tarif parkir berdasarkan jenis kendaraan dan durasi parkir.
-
-Konsep Dart yang digunakan pada latihan ini meliputi `enum`, function, operator `~/`, operator `%`, `if`, dan `switch`. Program juga telah menghasilkan tarif yang sesuai dengan seluruh skenario yang diberikan.
