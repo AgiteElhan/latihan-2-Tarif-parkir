@@ -149,6 +149,7 @@ Dengan demikian, jam pertama memiliki tarif berbeda dengan jam berikutnya sesuai
 
 ## Output Program
 
+(screenshoot/tarif-parkir.png)
 
 
 ## Kesimpulan
