@@ -49,7 +49,7 @@ Alur program secara umum adalah sebagai berikut:
 
 Flowchart program dibuat dalam bentuk gambar PNG.
 
-[Flowchart Tarif Parkir](screenshoot/flowchart.png)
+(screenshoot/flowchart.png)
 
 ## Source Code
 
