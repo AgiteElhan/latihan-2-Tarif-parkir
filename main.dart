@@ -2,10 +2,10 @@ enum JenisKendaraan {motor,mobil}
 
 int hitungTarif(JenisKendaraan jenis,int menit){
   int jam = menit ~/ 60;
-  int sisaMenit = menit % 60;
+  final int sisaMenit = menit % 60;
   
   if (sisaMenit > 0){
-    jam++;
+    jam = jam + 1;
   };
   
   switch(jenis){
