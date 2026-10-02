@@ -48,7 +48,7 @@ Alur program secara umum adalah sebagai berikut:
 ## Flowchart
 
 
-![Flowchart](screenshoot/flowchart.png)
+![Flowchart](screenshoot/flowchart.jpeg)
 
 ## Source Code
 
