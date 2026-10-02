@@ -47,9 +47,8 @@ Alur program secara umum adalah sebagai berikut:
 
 ## Flowchart
 
-Flowchart program dibuat dalam bentuk gambar PNG.
 
-screenshoot/flowchart.png
+![Flowchart](screenshoot/flowchart.png)
 
 ## Source Code
 
